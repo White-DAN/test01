@@ -1,1 +1,5 @@
 print("大家好啊")
+print("大家好啊")
+print("大家好啊")
+print("大家好啊")
+print("大家好啊")
